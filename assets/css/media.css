@@ -1,0 +1,412 @@
+@media(max-width: 320px){
+	.ba_single_card .ba_icon {
+    	margin: 30px 100px 30px 100px!important;
+    	padding: 20px!important;
+	}
+	.ba_slider_1 {
+    	margin: 27px 0!important;
+	}
+	.ba_choose_us_card .ba_icon {
+    	margin: 10px 200px 10px 0px;
+	}
+	.ba_choose_us_card .ba_icon {
+    	padding: 10px;
+    	font-size: 25px;
+	}
+	.ba_choose_us_block .ba_single_card{
+		margin-bottom: 20px;
+	}
+	.ba_choose_us_block .ba_single_card .ba_icon {
+	    margin: 0px 170px 20px 0px!important;
+    	font-size: 30px;
+	}
+	.Image_To_Video{
+		background-size: auto;
+	}
+	.Festival_Post{
+		background-size: auto;
+	}
+	.Business_Post_bg{
+		background-size: auto;
+	}
+	.ba_counter .ba_title h2{
+		font-size: 30px;
+	}
+	.ba_counters .ba_line{
+		display: none;
+	}
+	.ba_download .ba_title h2{
+		font-size: 25px;
+	}
+}
+@media(min-width: 375px){
+	.ba_single_card .ba_icon {
+    	margin: 30px 120px 30px 120px!important;
+    	padding: 20px!important;
+	}
+	.ba_slider_1 {
+    	margin: 27px 0!important;
+	}
+	.ba_counters p {
+    	font-size: 17px!important;
+	}	
+	.ba_choose_us_card .ba_icon {
+    	margin: 10px 200px 10px 0px;
+	}
+	.ba_choose_us_card .ba_icon {
+    	padding: 10px;
+    	font-size: 25px;
+	}
+	.ba_choose_us_block .ba_single_card{
+		margin-bottom: 20px;
+	}
+	.ba_choose_us_block .ba_single_card .ba_icon {
+	    margin: 0px 200px 20px 0px!important;
+    	font-size: 30px;
+	}
+	.Image_To_Video{
+		background-size: auto;
+	}
+	.Festival_Post{
+		background-size: auto;
+	}
+	.Business_Post_bg{
+		background-size: auto;
+	}
+	.ba_counter .ba_title h2{
+		font-size: 30px;
+	}
+	.ba_counters .ba_line{
+		display: none;
+	}
+	.ba_download .ba_title h2{
+		font-size: 25px;
+	}
+}
+@media(min-width: 425px){
+	.ba_single_card .ba_icon {
+    	margin: 30px 140px 30px 140px!important;
+    	padding: 20px!important;
+	}
+	.ba_slider_1 {
+    	margin: 27px 0!important;
+	}
+	.ba_counters p {
+    	font-size: 17px!important;
+	}	
+	.ba_choose_us_card .ba_icon {
+    	margin: 10px 200px 10px 0px;
+	}
+	.ba_choose_us_card .ba_icon {
+    	padding: 10px;
+    	font-size: 25px;
+	}
+	.ba_choose_us_block .ba_single_card{
+		margin-bottom: 20px;
+	}
+	.ba_choose_us_block .ba_single_card .ba_icon {
+	    margin: 0px 240px 20px 0px!important;
+    	font-size: 30px;
+	}
+	.Image_To_Video{
+		background-size: auto;
+	}
+	.Festival_Post{
+		background-size: auto;
+	}
+	.Business_Post_bg{
+		background-size: auto;
+	}
+	.ba_counters .ba_line {
+    	display: none!important;
+	}
+	.ba_counter .ba_title h2{
+		font-size: 32px;
+	}
+	.ba_counters .ba_line{
+		display: none;
+	}
+	.ba_download .ba_title h2{
+		font-size: 30px;
+	}
+}
+@media(min-width: 768px){
+	#navbarSupportedContent {
+    	padding-top: 20px;
+	}
+	.navbar-nav {
+    	padding: 20px 15px;
+    	background: #000000;
+    	border-radius: 20px;
+	}
+	.navbar-nav .nav-item .nav-link{
+		color: #fff;
+	}
+	.navbar .navbar-brand img {
+    	max-width: 160px;
+	}
+	.ba_single_card .ba_icon {
+    	margin: 30px 70px 30px 70px!important;
+    	padding: 20px!important;
+	}
+	.ba_choose_us_block .ba_single_card .ba_icon{
+    	margin: 0px 110px 20px 0px!important;
+    	padding: 15px!important;
+    	font-size: 25px;
+	}
+	.ba_choose_us_block .span h4{
+		font-size: 20px;
+	}
+	.ba_choose_us_block .span p{
+		font-size: 14px;
+	}
+	.ba_counters .ba_line {
+    	display: block!important;
+    	height: 60px;
+	}
+	.ba_counter .ba_title h2{
+		font-size: 35px;
+	}
+}
+@media(max-width: 768px){
+	.ba_navbar {
+    	padding: 20px 15px;
+    }
+    .navbar{
+    	padding: 0;
+    }
+    .navbar .navbar-brand {
+    	padding: 0;
+	}
+	.navbar .navbar-brand img {
+    	max-width: 150px;
+	}
+	.ba_navbar .navbar button {
+    	font-size: 20px;
+    	text-align: center;
+	}
+	#navbarSupportedContent {
+    	padding-top: 20px;
+	}
+	.navbar-nav {
+    	padding: 20px 15px;
+    	background: #000000;
+    	border-radius: 20px;
+	}
+	.navbar-nav .nav-item .nav-link{
+		color: #fff;
+	}
+	.carousel-inner .carousel-item .ba_title p {
+    	font-size: 15px!important;
+    	line-height: 22px!important;
+    	margin-bottom: 5px!important;
+	}
+	.carousel-inner .carousel-item .ba_download{
+		justify-content: center;
+	}
+	.carousel-inner .carousel-item .ba_download .col-8{
+		margin-bottom: 5px;
+	}
+	.ba_slider_1 {
+    	margin: 31px 0;
+	}
+	.ba_wrapper .illustration{
+		padding: 15px 0 5px 0;
+	}
+	.ba_title {
+    	text-align: center;
+    	padding-right: 0px!important;
+	}
+	.ba_single_card .ba_card_title h4 {
+		font-size: 20px;
+	}
+	.carousel-indicators {
+    	bottom: -35px;
+	}
+	.carousel-indicators [data-target]{
+		height: 12px;
+		width: 12px;
+		padding: 0;
+	}
+	.ba_wrapper {
+	    padding: 0 0 60px 0px;
+	}
+	.ba_counters p{
+		font-size: 18px;
+	}
+	.ba_counters h2{
+		font-size: 30px;
+	}
+	.ba_Features_padding {
+    	padding: 40px 20px;
+	}
+	.ba_single_card .ba_icon {
+    	margin: 30px 80px 30px 80px;
+	}
+	.ba_single_card .ba_icon {
+	    padding: 10px;
+    	font-size: 25px;
+	}
+	.ba_choose_us_padding{
+		padding: 0 20px 50px 20px;
+	}
+	.ba_choose_us_card{
+		max-width: 95%;
+	}
+	.ba_choose_us_card .ba_icon{
+		margin: 20px 210px 15px 0px;
+	}
+	.ba_footer_widget img{
+		width: -webkit-fill-available;
+	}
+	.ba_footer_widget {
+    	padding: 15px 10px;
+	}
+	.ba_footer {
+    	background-color: #111111;
+    	padding: 50px 0 0 0;
+    	color: #fff;
+	}
+	.ba_copyright p {
+    	text-align: center;
+    	margin-bottom: 10px;
+    	font-size: 12px;
+	}
+	.ba_socials {
+    	justify-content: center!important;
+	}
+
+/**********Vision**********/
+
+	.ba_vision_wrapper{
+	    padding: 40px 0 60px 0;
+	}
+	.ba_vision_wrapper h1 {
+    	font-size: 28px;
+    	margin-bottom: 0;
+	}
+	.ba_vision_introduction {
+	    padding: 40px 0 40px 0;
+	}
+	.ba_vision h2{
+		font-size: 28px;
+	}
+	.ba_vision p{
+		font-size: 13px;
+	}
+	.ba_vision_introduction p{
+		font-size: 13px;
+	}
+
+/**********Contact Us**********/
+	
+	.ba_contact_wrapper{
+	    padding: 40px 0 60px 0;
+	}
+	.ba_contact_wrapper h1 {
+    	font-size: 28px;
+    	margin-bottom: 0;
+	}
+	.ba_contact_introduction {
+	    padding: 40px 0 40px 0;
+	}
+	.ba_contact h2{
+		font-size: 28px;
+	}
+	.ba_contact p{
+		font-size: 13px;
+	}
+	.ba_contact_form{
+		padding: 40px 0;
+	}
+	.ba_live_location{
+		margin-bottom: 40px;
+	}
+
+/**********FAQ's**********/
+	
+	.ba_faq_wrapper{
+	    padding: 40px 0 60px 0;
+	}
+	.ba_faq_wrapper h1 {
+    	font-size: 28px;
+    	margin-bottom: 0;
+	}
+	.ba_faq{
+		padding: 40px 0; 
+	}
+	.accordion .card-header .btn-link{
+		font-size: 13px;
+	}
+	.accordion .card-body{
+		font-size: 13px;
+	}
+
+}
+@media(min-width: 992px){
+.navbar-nav {
+    	padding: 20px 15px;
+    	background: none;
+    	border-radius: 20px;
+	}
+	.navbar-nav .nav-item .nav-link{
+		color: #000;
+	}
+}
+@media (min-width: 1024px){
+	.ba_single_card .ba_icon {
+    	margin: 30px 100px 30px 100px!important;
+    	padding: 20px!important;
+	}
+	.ba_choose_us_block .ba_single_card .ba_icon {
+    	margin: 0px 180px 20px 0px!important;
+	}
+	.ba_counters .ba_line {
+    	display: block!important;
+    	height: 80px;
+	}
+	.ba_counters p {
+    	font-size: 25px!important;
+	}
+	.ba_counter .ba_title h2{
+		font-size: 35px;
+	}
+	.ba_counters .ba_line {
+    	display: block!important;
+    	height: 100px;
+	}
+	.ba_download .ba_title h2{
+		font-size: 35px;
+	}
+	.navbar-nav {
+    	padding: 20px 15px;
+    	background: none;
+    	border-radius: 20px;
+	}
+	.navbar-nav .nav-item .nav-link{
+		color: #000;
+	}
+	.navbar .navbar-brand img {
+    	max-width: 250px;
+	}
+}
+@media (min-width: 1440px){
+	.ba_single_card .ba_icon {
+    	margin: 50px 130px 50px 130px!important;
+    	padding: 20px!important;
+	}
+	.ba_choose_us_block .ba_single_card .ba_icon {
+    	margin: 0px 230px 20px 0px!important;
+	}
+	.ba_counters .ba_line {
+    	display: block!important;
+    	height: 150px;
+	}
+	.ba_counters p {
+    	font-size: 30px!important;
+	}
+	.ba_counter .ba_title h2{
+		font-size: 45px;
+	}
+}
+@media (min-width: 1800px){}
